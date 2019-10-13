@@ -3,7 +3,7 @@ Hachkerrank exercises
 
 There is the code about all exercises requested for ADM course as first homework.
 
-The main challenges are for _PROBLEM 1_:
+_The main challenges are for PROBLEM 1_:
 
 Introduction (all { total: 7 - max points: 75)
 
@@ -31,7 +31,7 @@ Closures and Decorations (all { total: 2 - max points: 60)
 
 Numpy (all { total: 15 - max points: 300)
 
-While for _Problem 2_:
+_While for Problem 2_:
  
 https://www.hackerrank.com/challenges/birthday-cake-candles
 
