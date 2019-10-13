@@ -31,10 +31,9 @@ Closures and Decorations (all { total: 2 - max points: 60)
 
 Numpy (all { total: 15 - max points: 300)
 
-_While for Problem 2_:
+_While for PROBLEM 2_:
  
 https://www.hackerrank.com/challenges/birthday-cake-candles
-
 
 https://www.hackerrank.com/challenges/kangaroo
 
@@ -45,4 +44,6 @@ https://www.hackerrank.com/challenges/recursive-digit-sum
 https://www.hackerrank.com/challenges/insertionsort1
 
 https://www.hackerrank.com/challenges/insertionsort2
+
+
 
