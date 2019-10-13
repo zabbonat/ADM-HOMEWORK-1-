@@ -1,9 +1,9 @@
 ## ADM-HOMEWORK-1-
 Hachkerrank exercises
 
-There is the code about all exercises requested for ADM course as first homeworks.
+There is the code about all exercises requested for ADM course as first homework.
 
-The main challenges are for _PROBLEM 1_:
+_The main challenges are for _*PROBLEM 1*_:
 
 Introduction (all { total: 7 - max points: 75)
 
