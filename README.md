@@ -3,7 +3,7 @@ Hachkerrank exercises
 
 There is the code about all exercises requested for ADM course as first homework.
 
-The main challenges are for $PROBLEM 1$:
+The main challenges are for _PROBLEM 1_:
 
 Introduction (all { total: 7 - max points: 75)
 
